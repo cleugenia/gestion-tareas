@@ -112,7 +112,8 @@ El proyecto incluye también una interfaz gráfica en HTML ubicada en la carpeta
 ### 🌐 Opción 2: Frontend en GitHub Pages + Backend local
 
     Frontend: alojado en GitHub Pages
-
+    https://cleugenia.github.io/gestion-tareas/
+    
     Backend: debe estar corriendo en la máquina local (localhost:5000)
 
 ⚠️ Esta opción solo funciona desde la misma máquina donde se está ejecutando el backend. GitHub Pages no puede acceder a localhost en otra computadora.
