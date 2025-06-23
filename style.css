@@ -1,0 +1,39 @@
+body {
+  font-family: sans-serif;
+  max-width: 600px;
+  margin: auto;
+  padding: 1rem;
+  background: #f7f7f7;
+}
+
+form {
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  padding: 1rem;
+  border-radius: 5px;
+  background: white;
+}
+
+input,
+button {
+  margin-top: 0.5rem;
+  width: 100%;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+.hidden {
+  display: none;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background: #eee;
+  margin: 0.3rem 0;
+  padding: 0.5rem;
+  border-radius: 4px;
+}
